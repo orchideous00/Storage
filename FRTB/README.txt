@@ -1,0 +1,5 @@
+- sample data 출처: 조응규, 『시장리스크(FRTB 2019) 2%의 모든 것』
+- tenor별 민감도 배분 이후 data 사용
+- GIRR, delta에 한해 구현한 예제
+- 사용 예시: python main.py yyyymmdd
+- GIRR.cp39-win_amd64.pyd 파일과 같은 폴더에 저장하거나 PYTHONPATH 환경 변수 설정 후 사용
